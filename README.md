@@ -3,7 +3,7 @@
   <h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1d1d1f; margin-bottom: 8px;">
     Felipe
   </h1>
-  <p style="font-size: 1.3em; color: #6e6e73; margin: 0 0 32px;">
+  <p style="font-size: 1.9em; color: #6e6e73; margin: 0 0 32px;">
     Desenvolvedor Front-end
   </p>
 
