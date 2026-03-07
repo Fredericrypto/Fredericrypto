@@ -17,6 +17,7 @@
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1d1d1f; margin: 0 0 24px;">
     Tecnologias
   </h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ts,vercel&theme=light" alt="Tecnologias" />
   <p style="margin: 0 auto 48px;">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ts,vercel&theme=light&perline=7" alt="Tecnologias" style="border-radius: 12px;"/>
   </p>
