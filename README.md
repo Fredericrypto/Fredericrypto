@@ -3,11 +3,11 @@
   <h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1d1d1f; margin-bottom: 8px;">
     Felipe
   </h1>
-  <p style="font-size: 6.9em; color: #6e6e73; margin: 0 0 32px;">
+  <p style="font-size: 1.5em; color: #6e6e73; margin: 0 0 32px;">
     Desenvolvedor Front-end
   </p>
 
-  <hr style="border: 0; height: 2px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.4; max-width: 300px; margin: 0 auto 40px; border-radius: 999px;">
+  <hr style="border: 0; height: 26px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.4; max-width: 300px; margin: 0 auto 40px; border-radius: 999px;">
 
   <p style="font-size: 1.1em; color: #1d1d1f; line-height: 1.6; max-width: 600px; margin: 0 auto 48px;">
     Crio landing pages limpas, rápidas e responsivas para pequenos negócios locais.<br>
