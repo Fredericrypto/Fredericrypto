@@ -19,6 +19,7 @@
   </h3>
   <p style="margin: 0 auto 48px;">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ts,vercel&theme=light&perline=7" alt="Tecnologias" style="border-radius: 12px;"/>
+    HTML · CSS · JavaScript · Tailwind CSS · React · TypeScript · Vercel
   </p>
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.3; max-width: 400px; margin: 0 auto 48px; border-radius: 999px;">
