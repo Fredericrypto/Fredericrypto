@@ -6,7 +6,7 @@
     Front-end Developer & Automation Engineer
   </p>
   <p style="font-size: 1em; color: #8e8e93; margin: 0 0 32px;">
-    Santa Catarina, Brasil
+    📍 Brazil
   </p>
   <hr style="border: 0; height: 2px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.4; max-width: 300px; margin: 0 auto 40px; border-radius: 999px;">
 
