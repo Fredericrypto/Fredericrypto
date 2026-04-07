@@ -85,7 +85,4 @@
 
   <hr style="border: 0; height: 2px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.4; max-width: 300px; margin: 0 auto 32px; border-radius: 999px;">
 
-  <p style="color: #8e8e93; font-size: 0.95em; margin: 0;">
-    Aberto a projetos · Santa Catarina, Brasil
-  </p>
 </div>
