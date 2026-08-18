@@ -18,7 +18,8 @@
     ⚡ Backend & Security
   </h3>
   <p style="margin: 0 auto 16px;">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,fastify,express,postgres,prisma,redis,bash&theme=light&perline=8" alt="Backend & Security" style="border-radius: 12px;"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,prisma,redis,bash&theme=light&perline=8" alt="Backend" style="border-radius: 12px; vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" style="border-radius: 8px; vertical-align: middle; margin-left: 4px;"/>
   </p>
   <p style="color: #6e6e73; margin: 0 0 48px;">
     Node.js · TypeScript · Fastify · Express · PostgreSQL · Prisma ORM · Redis · JWT · Bcrypt · Zod
