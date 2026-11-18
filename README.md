@@ -8,8 +8,8 @@
   <hr style="border: 0; height: 2px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.4; max-width: 300px; margin: 0 auto 40px; border-radius: 999px;">
 
   <p style="font-size: 1.1em; color: #1d1d1f; line-height: 1.6; max-width: 600px; margin: 0 auto 48px;">
-    Architecting <strong>secure, high-performance REST APIs</strong>, scalable backend systems, and containerized microservices.<br><br>
-    Focused on Node.js, Fastify, Application Security (AppSec), PostgreSQL, and self-hosted Linux infrastructure.
+    Architecting <strong>secure, production-ready REST APIs</strong>, scalable backend systems, and containerized microservices.<br><br>
+    Focused on Node.js, Express, Application Security (AppSec), PostgreSQL, and self-hosted Linux infrastructure.
   </p>
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.3; max-width: 400px; margin: 0 auto 48px; border-radius: 999px;">
@@ -18,11 +18,10 @@
     ⚡ Backend & Security
   </h3>
   <p style="margin: 0 auto 16px;">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,prisma,redis,bash&theme=light&perline=8" alt="Backend" style="border-radius: 12px; vertical-align: middle;"/>
-    <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" style="border-radius: 8px; vertical-align: middle; margin-left: 4px;"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,prisma,docker,bash&theme=light&perline=8" alt="Backend" style="border-radius: 12px; vertical-align: middle;"/>
   </p>
   <p style="color: #6e6e73; margin: 0 0 48px;">
-    Node.js · TypeScript · Fastify · Express · PostgreSQL · Prisma ORM · Redis · JWT · Bcrypt · Zod
+    Node.js · TypeScript · Express.js · PostgreSQL · Drizzle ORM · Prisma ORM · Argon2 · JWT · Zod · Helmet
   </p>
 
   <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1d1d1f; margin: 0 0 24px;">
@@ -32,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=docker,linux,debian,git,github,postman&theme=light&perline=6" alt="Infrastructure" style="border-radius: 12px;"/>
   </p>
   <p style="color: #6e6e73; margin: 0 0 48px;">
-    Docker & Docker Compose · Linux (Debian) · Shell Scripting · Git · CI/CD Basics · RESTful APIs
+    Docker & Docker Compose · Linux (Debian) · Shell Scripting · Git · CI/CD Basics · Swagger UI
   </p>
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); opacity: 0.3; max-width: 400px; margin: 0 auto 48px; border-radius: 999px;">
@@ -43,10 +42,10 @@
 
   <ul style="list-style: none; padding: 0; max-width: 600px; text-align: left; margin: 0 auto 48px;">
     <li style="margin: 20px 0; padding: 20px; background: #f9f9f9; border-radius: 12px;">
-      <a href="https://github.com/Fredericrypto/taskmanager-api" style="color: #007aff; text-decoration: none; font-weight: 500; font-size: 1.2em;">
-        🔐 TaskManager API
+      <a href="https://github.com/Fredericrypto/auth-api" style="color: #007aff; text-decoration: none; font-weight: 500; font-size: 1.2em;">
+        🔒 Auth API
       </a><br>
-      <small style="color: #6e6e73;">Production-ready REST API built with Node.js, Fastify, TypeScript, and PostgreSQL (via Docker). Implements JWT authentication, bcrypt password hashing, Zod schema validation, Prisma ORM, and query pagination.</small>
+      <small style="color: #6e6e73;">A secure, production-ready authentication microservice built with Node.js, Express, Drizzle ORM, and PostgreSQL. Focuses on robust AppSec practices featuring Argon2 password hashing, strict Zod boundary validation, HTTP header hardening via Helmet, rate limiting, and interactive Swagger documentation wrapped in Docker Compose.</small>
     </li>
   </ul>
 
@@ -56,10 +55,10 @@
     🛠️ Core Competencies
   </h3>
   <p style="font-size: 1.1em; color: #1d1d1f; max-width: 600px; margin: 0 auto 32px; line-height: 1.8;">
-    🔒 Secure Authentication & Authorization (JWT, OAuth2, RBAC)<br>
-    🗄️ Database Design & Migration Management (PostgreSQL, Prisma)<br>
-    🐳 Containerization & Local Infrastructure (Docker Compose)<br>
-    🛡️ Application Security & Input Sanitization (Zod, OWASP Top 10 Awareness)<br>
+    🔒 Advanced Password Hashing & Brute-Force Defense (Argon2, Rate Limiting)<br>
+    🗄️ Relational Database Management & ORMs (PostgreSQL, Drizzle, Prisma)<br>
+    🐳 Full Containerization & Environment Isolation (Docker Compose)<br>
+    🛡️ Application Security & Boundary Validation (Zod, Helmet, OWASP Best Practices)<br>
     🐧 Linux System Administration & Shell Automation
   </p>
 
